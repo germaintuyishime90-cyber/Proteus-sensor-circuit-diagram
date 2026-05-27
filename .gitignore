@@ -1,0 +1,10 @@
+# Proteus 8 backup files
+*.pdsbak
+Last Loaded *.pdsbak
+Backup Of *.pdsbak
+
+# Local workspace configurations
+*.workspace
+
+# Arduino build folders
+build/
